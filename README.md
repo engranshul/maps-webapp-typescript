@@ -1,6 +1,6 @@
 ### Learnings from this project
 
-* With the help of pracel bulder we can refer typescript file from html file
+* With the help of pracel bundlder we can refer typescript file from html file
 * Faker module of npm
 * Sometimes type definitions need to be installed when u are using a javascript 
   project inside typescript code.
@@ -9,5 +9,7 @@
 * type definition generally has .d.ts extension
 * generally default is not used wd export in typescript world..this way u have to 
   import with curly braces always.This rule doesnt apply to 3rd party modules
-  
+* Hook up Google Maps by generating an API key on the Google Developer's
+  Console.Creating an API key requires a Google Developer account with billing enabled.This means you have to have a credit card tied to your Google account.  
+
 
