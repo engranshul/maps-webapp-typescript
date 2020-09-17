@@ -1,3 +1,9 @@
+### What is this project
+This project i created as a part of online course.In this i have
+used html,css and typescript.This project shows company and user
+location on google maps.To run this project execute 
+parcel index.html command
+
 ### Learnings from this project
 
 * With the help of pracel bundlder we can refer typescript file from html file
@@ -19,6 +25,8 @@
 * Restricting access to what engineers can change and what they cant change..
   using public protected private modifiers
 * we can use html tags also in template strings  
+
+![Screenshot](screenshot.png)
   
 
 
