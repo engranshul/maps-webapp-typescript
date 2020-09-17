@@ -11,5 +11,7 @@
   import with curly braces always.This rule doesnt apply to 3rd party modules
 * Hook up Google Maps by generating an API key on the Google Developer's
   Console.Creating an API key requires a Google Developer account with billing enabled.This means you have to have a credit card tied to your Google account.  
+* learnt about how to add markers to map and read type definition files
+  
 
 
