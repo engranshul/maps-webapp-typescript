@@ -26,7 +26,9 @@ parcel index.html command
   using public protected private modifiers
 * we can use html tags also in template strings  
 
-![Screenshot](screenshot)
+## Screenshot of project
+
+![Screenshot](screenshot.png)
   
 
 
